@@ -564,5 +564,9 @@ files:
     \   return true;\n        }\n        \n    }\n}\n"
   learner_created: false
 feedback_link: https://hyperskill.org/projects/165/stages/859/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Well done! You finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: Sat, 17 Jul 2021 20:55:24 UTC
 record: -1

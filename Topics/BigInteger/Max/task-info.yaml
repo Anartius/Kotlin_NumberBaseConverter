@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    import java.math.BigInteger
+
+    fun main() {
+        // write your code here
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12546#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 27 Jun 2021 18:57:12 UTC
+record: -1
